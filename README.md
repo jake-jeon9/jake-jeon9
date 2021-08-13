@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing android app and BE.
 - 🌱 I’m currently learning python and kotlin.
 - 💞️ I’m looking for someone who can help me to improve my developing skills.
-- 📫 you cna reach me by email that is jakejeon1125@gmail.com
+- 📫 you can reach me by email that is jakejeon1125@gmail.com
 
 I learned some programming languages (java,js,python, kotlin, lua, sql) but I'm still beginner.
 
